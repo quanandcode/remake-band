@@ -116,7 +116,7 @@ html{
     position: relative;
    margin-top: 46px;
    height: 50vw;
-   background: url('../../assets/Img/slider/slider1.jpg') top center / cover no-repeat;
+   background: url("../Img/slider1.jpg") top center / cover no-repeat;
 }
 .text-content{
     color: #fff;
